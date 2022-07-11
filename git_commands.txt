@@ -1,0 +1,38 @@
+git --version
+//Check the version of git you have installed.
+
+git init
+//If no parameters is passesd to the git init command, it will initialize the current directory as a git repository.
+
+git config --global init.defaultBranch main
+//set default defaultBranch
+
+git brach -m main
+//rename the current branch of the git repository to main
+
+git status
+//status of your git repository-tells us what the current state of our git repository is.
+
+git add <file>
+//Add commit to staging area
+
+git rm --cached <file> 
+//To unstage
+
+git config --global user.name "<username>"
+//set your git configuration name
+
+git config --global user.email "<useremail>"
+//set your git configuration email
+
+git log
+//shows a list of all the changes that have been made in your git repository.
+
+git branch <branchname>
+//crate a branch
+
+git checkout <branchname>
+//switch to branch
+
+git restore <file>
+//discard changes
