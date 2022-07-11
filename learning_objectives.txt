@@ -1,0 +1,6 @@
+Introdcution to GitLab CI
+Learn the basics of Git
+Know how to work in GitLab using the GitLab Flow
+Understand CI/CD in GitLab
+How to migrate from Jenkins to GitLab
+Learn how to deploy software using GitLab
