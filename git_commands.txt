@@ -36,3 +36,23 @@ git checkout <branchname>
 
 git restore <file>
 //discard changes
+
+git merge <sourceBranchName>
+//merge changes into the main branch
+
+git log --all --oneline
+//give a one line summary for each commit in the repository
+
+git branch -d <branchName>
+
+git stash push
+//stach changes outside of git history
+
+git stash list 
+//see stashed changes
+
+git stash apply
+//reapplies the changes to the working directory
+
+git stash pop 
+//pops the changes off the stash so its no longer listed in the stash
