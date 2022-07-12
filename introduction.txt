@@ -1,0 +1,16 @@
+What is GitLab?
+
+GitLab Overview
+GitLab is an Open-Source Software Development Platform. 
+Source Code Management System
+Offers additional funcitonality like CI/CD 
+
+Difference between Git and GitLab
+*Git is a Version Control System
+*GitLab is a Source code Management System
+
+Why Use GitLab
+*GitLab enables collaboration among a tema of developers with the GitLab Flow.
+*Built in CI/CD funcitonality
+*It can integrate with other tools.
+*And a plethora of other features.
