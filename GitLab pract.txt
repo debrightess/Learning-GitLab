@@ -1,0 +1,22 @@
+LEARNING OBJECTIVES
+* Sync changes between local and remote Git repositories
+* Create Merge requests
+* Demonstrate familiarity with the components of a Merge request.
+* Apploy the GitLab flow in your own Gitlab project
+
+
+git clone <repositorylink>
+//clone repository down to our local machine
+
+git checkout -b <branchName>
+//create a branch and chekout to that branch
+
+git add <fileName>
+
+git commit -m "updating ..."
+
+git pull 
+//sink changes in our remote repository to our local repository
+
+git push -u origin <branchName>
+//to push and create the branch in our remote repository

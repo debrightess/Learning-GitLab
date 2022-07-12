@@ -1,0 +1,9 @@
+ssh-keygen -t ed25519 -C "GitLab Key Pair"
+//SSH keygen
+
+cat ~/.ssh/
+cat ~/.ssh/id_ed25519.pub
+//to get public key
+
+ssh -T git@gitLab.com
+//authencate git with gitLab
